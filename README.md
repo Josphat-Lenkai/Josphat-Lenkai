@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Josphat Lenkai</h1>
-<h3 align="center">I am Passionate about Data and anything related to data</h3>
+<h3 align="center">I am Passionate about Data scientist</h3>
 
 - 🔭 I’m currently working on **Data Engineering with SQL and Python**
 
