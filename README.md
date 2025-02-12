@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Josphat Lenkai</h1>
 <h3 align="center">I am a Passionate Data scientist</h3>
 
-- 🔭 I’m currently working on **Data Engineering with SQL and Python**
+- 🔭 I’m currently working on **Data Analysis with SQL and Python**
 
 - 🌱 I’m currently learning **SQL and Python**
 
